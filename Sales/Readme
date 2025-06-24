@@ -1,1 +1,50 @@
+# 📊 Sales Performance Dashboard – Tableau
+
+This interactive Tableau dashboard was created to analyze sales performance across countries, regions, sub-categories, and time. The dashboard highlights top-performing customers, regions, and product categories, enabling data-driven business insights.
+
+---
+
+## 📌 Key Insights
+
+- **Top Sales Countries**: Spain, France, and the UK
+- **Top Customer**: Alexander Bond  
+- **Least Performing Country**: Sweden  
+- **Highest Profit Country**: UK  
+- **Highest Cost Country**: France  
+- **Lowest Cost Country**: Norway  
+
+---
+
+## 📊 Visual Highlights
+
+- **Map Chart**: Sales distribution by country  
+- **Table**: Top and least performing customers and countries based on sales, cost, and profit  
+- **Clustered Column Chart**:
+  - Top 5 Sub-Categories by Sales: Bookcases, Chairs, Appliances, Copiers, Storage  
+  - Lowest: Labels  
+- **Pie Chart**: 
+  - Region contributing most to sales quantity and cost: Central (55.11%)  
+- **Line Chart**:
+  - Highest orders: Q3 2020 (427 orders)  
+  - Lowest orders: Q1 2017 (119 orders)
+
+---
+
+## 🛠 Tools Used
+
+- Tableau Desktop  
+- Data Source: Superstore-style sales dataset  
+- Custom visuals: Maps, Pie Charts, Line Graphs, Clustered Columns  
+
+---
+
+## 📁 Files Included
+
+- `Sales_Dashboard.twbx` – Tableau Workbook file  
+- `Dashboard_Insights.pdf` – Key analysis document  
+- `README.md` – Project documentation
+
+---
+
+
 
