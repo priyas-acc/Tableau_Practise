@@ -1,1 +1,44 @@
+# 🏥 Hospital Performance Dashboard – Tableau
+
+This Tableau dashboard was developed as part of my **Data Analytics Internship** to analyze hospital operations and patient care metrics. It provides a visual summary of hospital KPIs, departmental performance, patient demographics, and regional trends.
+
+---
+
+## 📊 Key Features
+
+- **KPI Overview**: Total patients, revenue, in-patient count, death count, staff count  
+- **Age Distribution**: Patients grouped by age buckets  
+- **In/Out Patient Trends**: Comparison by weekday  
+- **Patient Status**: Normal, Readmit, ICU, Death (Tree Map)  
+- **Department Analysis**: Patient volume and revenue contribution  
+- **Gender & Region Analysis**: Male vs Female, Top 8 states by patient count  
+
+---
+
+## 🧠 Insights & Impact
+
+- Highest traffic in **Physical Medicine** and **Surgery**
+- Most patients from **British Columbia**
+- Peak activity on **Thursdays and Fridays**
+- Clear gender preference across departments
+
+---
+
+## 🛠 Tools Used
+
+- Tableau Desktop  
+- Excel (for data source)  
+- Calculated fields and filters for interactivity  
+
+---
+
+## 📁 Files
+
+- `Hospital_Dashboard.twbx` – Packaged Tableau Workbook   
+- `README.md` – This file  
+
+---
+
+
+
 
